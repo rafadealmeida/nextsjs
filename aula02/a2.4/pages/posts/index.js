@@ -20,7 +20,7 @@ export default function Post (props){
   )
 }
 
-
+// Search Params com Server Side
 // import dados from '../../dados.json';
 
 // export const getServerSideProps = (context) => {
