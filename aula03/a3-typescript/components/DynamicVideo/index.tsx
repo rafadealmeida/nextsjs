@@ -4,7 +4,7 @@ export default function YouTubeVideo() {
       <h1>
         Video do DevSoutinho
       </h1>
-      {/* <iframe src="https://youtube.com/embed/LQqliNavVYQ" /> */}
+      <iframe src="https://youtube.com/embed/LQqliNavVYQ" />
     </div>
   )
 }
